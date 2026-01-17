@@ -273,7 +273,7 @@
 <script setup>
 import { ref, reactive, onMounted, nextTick } from 'vue'
 import { ElMessage, ElMessageBox } from 'element-plus'
-import { Barcode } from '@element-plus/icons-vue'
+import { Postcard } from '@element-plus/icons-vue'
 import request from '@/utils/request'
 
 // 搜索表单
